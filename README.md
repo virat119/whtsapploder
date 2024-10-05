@@ -1,4 +1,4 @@
-Scrip ko Run karn karne k lihe kuch basic chize 
+Scrip ko Run karn karne k liye kuch basic chize 
 cd whtsapploder
 node virat.js
 
